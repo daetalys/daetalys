@@ -1,8 +1,8 @@
 ### Hi there 👋 | Welcome to my GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daetalys&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/daetalys/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daetalys&count_private=true&show_icons=true&theme=github_dark)](https://github.com/daetalys/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetalys&langs_count=9&layout=compact&theme=solarized-dark)](https://github.com/daetalys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetalys&langs_count=9&layout=compact&theme=github_dark)](https://github.com/daetalys/github-readme-stats)
 
 
 
