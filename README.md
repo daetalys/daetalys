@@ -45,3 +45,6 @@ Here are some ideas to get you started:
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/daetalys/daetalys?color=0088ff" />
     </a>
 -->
+
+![](https://github.com/daetalys/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/daetalys/github-stats/blob/master/generated/languages.svg)
