@@ -1,4 +1,4 @@
-### Hi there 👋 | Welcome to my GitHub
+### Sæll! | Welcome to my GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daetalys&count_private=true&show_icons=true&theme=github_dark)](https://github.com/daetalys/github-readme-stats)
 
