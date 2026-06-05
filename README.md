@@ -1,8 +1,8 @@
 ### Sæll! | Welcome to my GitHub
-<!--
+
 [![Git Stats](https://github-readme-stats.vercel.app/api?username=daetalys&count_private=true&show_icons=true&theme=transparent)](https://github.com/daetalys/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetalys&langs_count=10&layout=normal&size_count=0.5&count_weight=0.5&theme=transparent)](https://github.com/daetalys/github-readme-stats)
-
+<!--
 **daetalys/daetalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -40,9 +40,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/daetalys/daetalys/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/daetalys/daetalys?color=0088ff" />
     </a>
-    
+    -->
 ![](https://github.com/daetalys/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/daetalys/github-stats/blob/master/generated/languages.svg)
--->
 ![Sdtats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
