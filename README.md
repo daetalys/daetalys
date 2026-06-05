@@ -1,8 +1,8 @@
 ### Sæll! | Welcome to my GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daetalys&count_private=true&show_icons=true&theme=github_dark)](https://github.com/daetalys/github-readme-stats)
+[![Git Stats](https://github-readme-stats.vercel.app/api?username=daetalys&count_private=true&show_icons=true&theme=transparent)](https://github.com/daetalys/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetalys&langs_count=10&layout=compact&theme=github_dark)](https://github.com/daetalys/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetalys&langs_count=10&layout=normal&size_count=0.5&count_weight=0.5&theme=transparent)](https://github.com/daetalys/github-readme-stats)
 
 
 
